@@ -8,3 +8,4 @@ after push --set-upstream
 
 after another change
 
+after push origin s:p
